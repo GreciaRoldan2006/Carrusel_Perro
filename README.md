@@ -1,2 +1,4 @@
-# Carrusel_Perro
-Carrusel de imagenes 9 de agosto del 2024
+# Carrusel_Gts
+Carrusel de imagenes de gatos 2024
+
+## Carrusel 2 imagenes
